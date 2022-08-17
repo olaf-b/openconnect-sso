@@ -95,8 +95,8 @@ def get_default_auto_fill_rules():
             ).as_dict(),
             AutoFillRule(
                 selector="div[data-value=PhoneAppOTP]", action="click"
-            ).as_dict,
-            AutoFillRule(selector="a[id=signInAnotherWay]", action="click").as_dict,
+            ).as_dict(),
+            AutoFillRule(selector="a[id=signInAnotherWay]", action="click").as_dict(),
             AutoFillRule(
                 selector="input[id=idTxtBx_SAOTCC_OTC]", fill="totp"
             ).as_dict(),

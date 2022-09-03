@@ -5,10 +5,10 @@
         "homepage": "https://github.com/nmattia/niv",
         "owner": "nmattia",
         "repo": "niv",
-        "rev": "5830a4dd348d77e39a0f3c4c762ff2663b602d4c",
-        "sha256": "1d3lsrqvci4qz2hwjrcnd8h5vfkg8aypq3sjd4g3izbc8frwz5sm",
+        "rev": "82e5cd1ad3c387863f0545d7591512e76ab0fc41",
+        "sha256": "090l219mzc0gi33i3psgph6s2pwsc8qy4lyrqjdj4qzkvmaj65a7",
         "type": "tarball",
-        "url": "https://github.com/nmattia/niv/archive/5830a4dd348d77e39a0f3c4c762ff2663b602d4c.tar.gz",
+        "url": "https://github.com/nmattia/niv/archive/82e5cd1ad3c387863f0545d7591512e76ab0fc41.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "poetry2nix": {
@@ -17,10 +17,10 @@
         "homepage": "",
         "owner": "nix-community",
         "repo": "poetry2nix",
-        "rev": "f84d464f41d2210da2569b05c7281c19be23072e",
-        "sha256": "1g1qjygh59d3kgb0msxx0a885sharxbr48xn76za9wza3ndm0lxk",
+        "rev": "efe5b281b51c22495c488480d23d7bb1426bf3ba",
+        "sha256": "0cz6pf7kkcy3mw1zaznvl92yihjizfc8jmpp5025ijz174zik5pv",
         "type": "tarball",
-        "url": "https://github.com/nix-community/poetry2nix/archive/f84d464f41d2210da2569b05c7281c19be23072e.tar.gz",
+        "url": "https://github.com/nix-community/poetry2nix/archive/efe5b281b51c22495c488480d23d7bb1426bf3ba.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     }
 }

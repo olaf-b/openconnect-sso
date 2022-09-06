@@ -179,6 +179,8 @@ def authenticate_to(host, proxy, credentials, display_mode):
 def run_openconnect(auth_info, host, proxy, args):
     command_line = [
         "sudo",
+        "env",
+        f"PATH={os.getenv('PATH')}",
         "openconnect",
         "--cookie-on-stdin",
         "--servercert",
